@@ -2,9 +2,9 @@
 
 The decoder ring application allows users to select between three different types of encoding styles and decode or encode a specific message based on given paraters.
 
-##Links
+## Links
 
-*[Live Demo]()
+* [Live Demo]()
 
 ## Installation
 
